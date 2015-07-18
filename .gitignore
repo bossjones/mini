@@ -1,0 +1,5 @@
+sensitive.php
+
+# use regex if you want to ignore a bunch of files
+*.DS_Store
+
